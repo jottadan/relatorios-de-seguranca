@@ -69,6 +69,8 @@ Crianças e adolescentes, especialmente usuários do Roblox sem renda própria, 
 Foi identificado o uso do parâmetro "referr" contendo "adjust_reftag", indicando utilização da plataforma Adjust para rastreamento das instalações.
 Isso confirma a presença de um mecanismo de atribuição, reforçando a hipótese de monetização via CPI (Cost Per Install)
 
+![Robux Scam](images/referr.png)
+
 ---
 
 ## IOC (Indicators of Compromise)
