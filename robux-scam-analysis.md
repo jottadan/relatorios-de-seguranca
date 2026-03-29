@@ -78,3 +78,6 @@ Isso confirma a presença de um mecanismo de atribuição, reforçando a hipóte
 
 ## Conclusão
 O golpe não entrega a recompensa prometida e utiliza engenharia social para induzir usuários a instalar um aplicativo. A estratégia explora confiança em serviços legítimos e o interesse por recompensas digitais, com foco na monetização indireta pela instalação do aplicativo.
+
+## evidencias
+![Play Store App](playstore-app.png)
