@@ -57,20 +57,20 @@ Crianças e adolescentes, especialmente usuários do Roblox sem renda própria, 
 
 ---
 
-## Objetivo do Ataque
-- Monetização via instalação de aplicativo (CPI / afiliado)
-- Uso de tracking (Adjust) para atribuição de instalações
-- Possível uso de afiliados para distribuição do golpe
-- Possível aumento artificial da base de usuários  
-- Exploração de engenharia social voltada ao público jovem  
-
----
-
 ## Tracking e Monetização
 Foi identificado o uso do parâmetro "referr" contendo "adjust_reftag", indicando utilização da plataforma Adjust para rastreamento das instalações.
 Isso confirma a presença de um mecanismo de atribuição, reforçando a hipótese de monetização via CPI (Cost Per Install)
 
 ![Robux Scam](images/referr.png)
+
+---
+
+## Objetivo do Ataque
+- Monetização via instalação de aplicativo (CPI / afiliado)
+- Uso de tracking (Adjust) para atribuição de instalações
+- Possível uso de afiliados para distribuição do golpe
+- Possível aumento artificial da base de usuários  
+- Exploração de engenharia social voltada ao público jovem
 
 ---
 
