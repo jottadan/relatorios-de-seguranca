@@ -8,6 +8,8 @@ Este relatório analisa um golpe disseminado através de comentários em massa p
 ## Lure
 Comentários em massa nas avaliações do aplicativo Roblox (Galaxy Store), prometendo uma quantidade de Robux grátis após a conclusão de tarefas específicas durante 3 dias.
 
+![images](robux-scam.png)
+
 ---
 
 ## Análise do Link
