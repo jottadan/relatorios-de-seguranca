@@ -26,11 +26,10 @@ O domínio `abrir.link` é um encurtador legítimo, o que reduz a suspeita inici
 abrir.link → Google Play Store  
 (App: "Macadam, O Conta-Passos")
 
-**Observação:**  
-Não foram identificados redirecionamentos intermediários visíveis, porém não se descarta sua existência.
-
 ![Robux Scam](images/playstore-app.png)
 
+**Observação:**  
+Não foram identificados redirecionamentos intermediários visíveis, porém não se descarta sua existência.
 
 ---
 
