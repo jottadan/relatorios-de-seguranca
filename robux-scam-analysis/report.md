@@ -27,6 +27,9 @@ abrir.link → Google Play Store
 **Observação:**  
 Não foram identificados redirecionamentos intermediários visíveis, porém não se descarta sua existência.
 
+![Robux Scam](images/playstore-app.png)
+
+
 ---
 
 ## Comportamento Observado
